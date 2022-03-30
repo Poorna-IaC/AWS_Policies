@@ -11,7 +11,7 @@ provider "aws" {
   region = var.region
 }
 
-#BLOCK0
+#BLOCK00
 
 module "compute" {
   source = "./modules/compute"
