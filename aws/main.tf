@@ -157,7 +157,7 @@ module "storage_9" {
 }
 
 
-#BLOCK10
+#BLOCK100
 
 module "compute_10" {
   source = "./modules/compute_10"
